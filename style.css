@@ -1,0 +1,22 @@
+.box-model{
+	border: 10px solid rgb(9, 255, 0);
+}
+.heading{
+	width: 500px;
+	margin:50px auto;
+	background-color: rgb(118, 169, 235);
+	border:5px solid rgb(233, 229, 14);
+	padding: 60px;
+	color: rgb(211, 24, 17);
+
+}
+
+.heading2{
+	color: royalblue;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: justify;
+	text-transform: capitalize;
+	text-indent: 50px;
+	letter-spacing: 100px;
+}
